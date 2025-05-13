@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@apollo/client": "^3.13.4",
+    "@grafana/faro-react": "^1.18.1",
+    "@grafana/faro-web-tracing": "^1.18.1",
     "@graphql-codegen/cli": "^5.0.5",
     "@parcel/watcher": "^2.5.1",
     "graphql": "^16.10.0",
